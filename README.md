@@ -30,9 +30,8 @@ Make sure you have a C++ compiler
 - Data structures (Stack)
 
 ## 👤 Author
-Ammar Said Al-Shafei
-
-Student at Tanta University, Faculty of Science, Computer Science Department.
+- Ammar Said El-Shafey
+- Student at Tanta University, Faculty of Science, Computer Science Department.
 
 ## 📄 License
 This project is open-source and free to use for learning and educational purposes.
