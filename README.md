@@ -24,13 +24,14 @@ Make sure you have a C++ compiler
 
 ## Concepts Practiced
 
-Dynamic memory allocation
-Linked lists
-Object-Oriented Programming (C++ classes and destructors)
-Data structures (Stack)
+- Dynamic memory allocation
+- Linked lists
+- Object-Oriented Programming (C++ classes and destructors)
+- Data structures (Stack)
 
 ## 👤 Author
 Ammar Said Al-Shafei
+
 Student at Tanta University, Faculty of Science, Computer Science Department.
 
 ## 📄 License
